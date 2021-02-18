@@ -1,0 +1,10 @@
+console.log('Semangat...'.repeat(5));
+console.log('*'.repeat(5));
+console.log('*'.repeat(25));
+console.log('*'.repeat(55));
+console.log('*'.repeat(75));
+console.log('*'.repeat(105));
+console.log('*'.repeat(75));
+console.log('*'.repeat(55));
+console.log('*'.repeat(25));
+console.log('*'.repeat(5));
